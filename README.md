@@ -1,6 +1,6 @@
 # facerecognitionAPI
 
-This webiste detects the face in the image uploaded by the user and updates the count. <br>
+This website detects the face in the image uploaded by the user and updates the count. <br>
 TECH STACK :<br>
 BACKEND: NODE.JS + EXPRESS.JS<br>
 FRONT END : HTML,CSS, JAVASCRIPT,BABEL<br>
